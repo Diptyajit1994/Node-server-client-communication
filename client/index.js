@@ -24,8 +24,6 @@ function takeInput () {
 
                 // Add a connect listener
                 socketConnection.on('connect', function (socket) {
-                    console.log('Connected!', socketConnection);
-                    
                     socketIdList.push(socketConnection);
                 });
             }
