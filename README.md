@@ -55,7 +55,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ yarn run dev
 
-## Running the  server project Compiles and hot-reloads for development
+## Running the  client project Compiles and hot-reloads for development
 
     $ yarn run devClient
 
